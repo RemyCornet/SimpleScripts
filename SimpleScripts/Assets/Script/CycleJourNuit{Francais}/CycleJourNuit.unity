@@ -215,7 +215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DomeEtoiles: {fileID: 919132147898754971}
-  EtatdelaLune: {fileID: 1660199176}
+  LunePivot: {fileID: 1660199176}
   Lune: {fileID: 120320086}
   CouleurdeLaube:
     CouleurduCiel: {r: 0, g: 0.41509432, b: 0.38230821, a: 0}
@@ -231,7 +231,7 @@ MonoBehaviour:
     CouleurdeLhorizon: {r: 0, g: 0, b: 0, a: 0}
   Lumiereprincipale: {fileID: 823879379}
   SecondepourUneJournee: 10
-  currentTime: 0
+  heureActuelle: 0
   timeMultiplier: 1
 --- !u!4 &752924381
 Transform:
